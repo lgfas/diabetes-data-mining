@@ -1,0 +1,12 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+.venv/
+
+# Outras pastas e arquivos do Python que podem ser ignorados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do VS Code (caso use)
+.vscode/
